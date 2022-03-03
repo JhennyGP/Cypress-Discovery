@@ -1,0 +1,22 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Estudo cypress qaninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhennyGP/Cypress-Discovery.git"
+  },
+  "author": "Jennifer.Pinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhennyGP/Cypress-Discovery/issues"
+  },
+  "homepage": "https://github.com/JhennyGP/Cypress-Discovery#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
